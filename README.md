@@ -1,4 +1,4 @@
-# hackaton-prostaya-zadacha
+# tarelki
 
 В программе описаны решения 3 задач
 
